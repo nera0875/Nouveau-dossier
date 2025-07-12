@@ -1448,7 +1448,7 @@ endpoints:
         default:
           - openrouter/auto
           - '---FREE---'
-          - agentica-org/deepcoder-14b-preview:free
+          - agentica-org/deepcoder-14b-preview:freee
           - arliai/qwq-32b-arliai-rpr-v1:free
           - cognitivecomputations/dolphin3.0-mistral-24b:free
           - cognitivecomputations/dolphin3.0-r1-mistral-24b:free
