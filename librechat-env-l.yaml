@@ -1755,7 +1755,7 @@ endpoints:
           - thudm/glm-z1-32b
           - thudm/glm-z1-rumination-32b
           - '---X-AI---'
-          - x-ai/grok-2-1212
+          - x-ai/grok-4
           - x-ai/grok-2-vision-1212
           - x-ai/grok-3-beta
           - x-ai/grok-3-mini-beta
