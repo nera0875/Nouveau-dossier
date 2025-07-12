@@ -327,7 +327,7 @@ endpoints:
           - gpt-4o-search-preview-2025-03-11
           - gpt-4o-transcribe
           - gpt-image-1
-          - grok-2
+          - x-ai/grok-4
           - grok-2-1212
           - grok-2-latest
           - grok-2-vision
@@ -2000,7 +2000,7 @@ endpoints:
           - gpt-4o-mini@openai
           - gpt-4o-search-preview@openai
           - gpt-4o@openai
-          - grok-2-vision@xai
+          - x-ai/grok-4
           - grok-2@xai
           - grok-3-fast@xai
           - grok-3-mini-fast@xai
@@ -2116,7 +2116,7 @@ endpoints:
       models:
         default:
           - grok-2-1212
-          - grok-2-vision-1212
+          - x-ai/grok-4
           - grok-3-beta
           - grok-3-mini-beta
           - grok-beta
