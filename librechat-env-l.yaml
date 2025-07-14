@@ -642,7 +642,7 @@ endpoints:
      # LOCAL
     - name: "LM Studio" # Ceci est votre nouvel endpoint
       apiKey: "not-needed"
-      baseURL: "http://127.0.0.1:1234/v1"
+      baseURL: "http://10.5.0.2:1234/v1"
       models:
         default: ["lm-studio/gemma-3-12b"] 
         fetch: false
