@@ -644,7 +644,7 @@ endpoints:
       apiKey: "not-needed"
       baseURL: "http://10.5.0.2:1234/v1"
       models:
-        default: ["lm-studio/gemma-3-12b"] 
+        default: ["gemma-3-12b"] 
         fetch: false
       titleConvo: true
       modelDisplayLabel: "Gemma 3 12B"
